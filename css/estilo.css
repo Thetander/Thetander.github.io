@@ -1,0 +1,66 @@
+footer {
+    background-color: rgba(0, 0, 0, 0.7);
+        color: #FFFFFF; 
+    padding: 65px;
+    text-align: center;
+
+       
+  }
+  header {
+    background-color: rgba(0, 0, 0, 0.7); /* Negro semitransparente */
+    color: #FFFFFF; /* Texto en color blanco para contrastar */
+  }
+  /*boton facebook circular*/
+  button {
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+
+    padding: 0.2em;
+    background-color: rgb(255, 255, 255);
+    color: rgb(8, 7, 7);
+    transition: all 0.2s;
+  }
+  /*ilumincacion boton colores*/
+  button:hover {
+    background-color: #000044;
+    color: rgb(0, 0, 0);
+  }
+i {
+ 
+    padding: 1em;
+    background-color: rgb(10, 10, 10);
+    color: rgb(8, 7, 7);
+}
+
+.texto {
+    
+    font-family: 'Rubik Dirt', cursive;
+    color: aliceblue;
+        }
+
+.textoheader {
+    background-color: aliceblue;
+    padding: 5px;
+    color: rgb(1, 1, 1);
+    text-align: center;
+    font-size: 6pc;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  body {
+    background-image: url('../imagenes/danny-lines-dwjfddeDBZs-unsplash.jpg'); 
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    font-family: 'Rubik Dirt', sans-serif; 
+  }
+
+  h4{
+font-size: 70;
+  }
