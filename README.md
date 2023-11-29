@@ -1,6 +1,5 @@
 # Perfil de Github
 
-Un párrafo de la descripción del proyecto va aquí.
 El proyecto es un perfil de github, para presentar de manera visual con html
 ## Empezando
 
